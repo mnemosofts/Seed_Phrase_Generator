@@ -9,7 +9,6 @@ Generator of seed (mnemonic) phrases from wallets with: BTC; ETH; TRX; TON...
 
 **`3)` Click on the `MnemoGen_Installer.exe` and install the program.**
 
-
 All valid seed phrases are duplicated in the `seedphrase.txt` file
 
 ___________________________________________________________________________________________________________
